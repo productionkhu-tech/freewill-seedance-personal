@@ -4,8 +4,10 @@
 
 ## 내려받기
 
-[**Releases**](../../releases/latest) 에서 `Freewill-Seedance-Personal-Setup-<버전>.exe` 를 받아 설치하세요.
-설치한 뒤에는 앱을 켤 때마다 새 판을 확인해 자동으로 업데이트합니다.
+**[⬇ 설치 파일 받기 (Freewill-Seedance-Personal-Setup.exe)](https://github.com/productionkhu-tech/freewill-seedance-personal/releases/latest/download/Freewill-Seedance-Personal-Setup.exe)** — 누르면 늘 최신 판이 바로 받아집니다.
+
+받은 파일을 실행해 설치하세요. 처음 실행할 때 'Windows의 PC 보호' 창이 뜨면 **추가 정보 → 실행**을 누릅니다.
+설치한 뒤에는 앱을 켤 때마다 새 판을 확인해 자동으로 업데이트합니다. 지난 판은 [Releases](../../releases) 에 있습니다.
 
 ## 처음 켜면 — 내 키 넣기
 
